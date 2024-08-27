@@ -1,0 +1,43 @@
+.divMae {
+    display: flex;
+}
+
+.div1 {
+    background-color: black;
+    height: 110px;
+    width: 50px;
+}
+
+.div2 {
+    background-color: yellow;
+    height: 110px;
+    width: 50px;
+}
+
+.div3 {
+    background-color: red;
+    height: 110px;
+    width: 50px;
+}
+
+.divMain {
+    margin-top: 50px;
+}
+
+.divOne {
+    background-color: black;
+    height: 50px;
+    width: 150px;
+}
+
+.divTwo {
+    background-color: red;
+    height: 50px;
+    width: 150px;
+}
+
+.divThree {
+    background-color: yellow;
+    height: 50px;
+    width: 150px;
+}
